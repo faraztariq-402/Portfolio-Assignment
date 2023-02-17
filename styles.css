@@ -1,0 +1,323 @@
+.background {
+    position: relative;
+    background-color: darkslategrey;
+    height: 1000px;
+    width: 1400px;
+    margin: 250px;
+    margin-top: 30px;
+}
+
+h1 {
+    position: relative;
+
+    color: white;
+    top: -1190px;
+    left: 500px;
+    font-size: 80px
+}
+
+p {
+    position: relative;
+    color: white;
+    top: -1300px;
+    left: 300px;
+    font-size: 30px;
+}
+
+.background2 {
+    position: relative;
+    height: 420px;
+    width: 1150px;
+    left: 360px;
+    background-color: dimgray;
+    top: -1280px;
+}
+
+.background3 {
+    position: relative;
+    height: 400px;
+    width: 1150px;
+    left: 360px;
+    background-color: rgb(0, 50, 50);
+    top: -1280px;
+}
+
+.adams {
+    position: relative;
+    font-size: 25px;
+    color: white;
+    top: -2090px;
+    left: 400px;
+}
+
+.Home {
+    position: relative;
+    font-size: 20px;
+    color: black;
+    top: -2118px;
+    left: 550px;
+}
+
+.Home:hover {
+    color: white;
+    transition: 1s;
+}
+
+.Portfolio {
+    position: relative;
+    font-size: 20px;
+    color: black;
+    top: -2141px;
+    left: 650px;
+}
+
+.Portfolio:hover {
+    color: white;
+    transition: 1s;
+}
+
+.Transversal {
+    position: relative;
+    font-size: 20px;
+    color: black;
+    top: -2166px;
+    left: 775px;
+}
+
+.Transversal:hover {
+    color: white;
+    transition: 1s;
+
+}
+
+.About {
+    position: relative;
+    font-size: 20px;
+    color: black;
+    top: -2190px;
+    left: 935px;
+}
+
+.About:hover {
+    color: white;
+    transition: 1s;
+}
+
+.profile {
+    position: relative;
+    border-radius: 170px;
+    background-color: rgb(0, 60, 60);
+    top: -2145px;
+    left: 770px;
+    border: 3px solid darkgray;
+    height: 300px;
+    width: 300px;
+}
+
+.img1 img {
+    height:450px;
+     width:275px;
+    position: relative;
+    border-radius: 198px;
+    top: -2542px;
+    left: 768px;
+}
+
+.para1 {
+    position: relative;
+    top: -2880px;
+    left: 500px;
+    font-size: 30px;
+}
+
+.background4 {
+    position: relative;
+    top: -2870px;
+    left: 500px;
+    background-color: orange;
+    height: 5px;
+    width: 150px;
+}
+
+.para2 {
+    position: relative;
+    top: -2850px;
+    left: 500px;
+
+}
+
+.img2 {
+    position: relative;
+    top: -3174px;
+    left: 1365px;
+
+}
+
+.para3 {
+    position: relative;
+    top: -3120px;
+    left: 1050px;
+    color: azure;
+}
+
+.background5 {
+    position: relative;
+    background-color: darkgray;
+    height: 80px;
+    width: 1020px;
+    left: 430px;
+    margin-top: 14px;
+    top: -2990px;
+}
+
+.background6 {
+    position: relative;
+    background-color: darkslategray;
+    height: 47px;
+    width: 130px;
+    margin: 3px;
+    top: -3055px;
+    left: 510px;
+
+}
+
+.background7 {
+    position: relative;
+    background-color: darkslategray;
+    height: 48px;
+    margin: -5px 39px;
+    width: 140px;
+    left: 730px;
+    top: -3102px;
+
+}
+
+.background8 {
+    position: relative;
+    background-color: darkslategray;
+    height: 48px;
+    width: 140px;
+    margin: 5px 66px;
+    left: 960px;
+    top: -3149px;
+    margin-right: 10px;
+
+}
+
+.background9 {
+    position: relative;
+    background-color: darkslategray;
+    height: 48px;
+    width: 140px;
+    margin: 36px;
+    left: 1223px;
+    top: -3232px;
+    margin-right: -4px 63px;
+}
+
+.img3 {
+    position: relative;
+    top: -3304px;
+    margin: -29px 12px;
+    left: 498px;
+  
+}
+
+.img4 {
+    position: relative;
+    
+
+    width: 40px;
+    padding: 2px 33px;
+    top: -3353px;
+    left: 751px;
+}
+
+.img5 {
+    position: relative;
+    top: -3434px;
+    left: 1030px;
+}
+
+.img6 {
+    position: relative;
+    top: -3524px;
+    left: 1262px;
+}
+
+.img7 {
+    position: relative;
+    margin-top: -32px;
+    top: -3750px;
+    left: 1155px;
+}
+
+.img8 {
+    position: relative;
+    top: -3776px;
+    left: 1200px;
+}
+
+.img9 {
+    position: relative;
+    top: -3802px;
+    left: 1245px;
+}
+
+.img10 {
+    position: relative;
+    top: -3828px;
+    left: 1286px;
+}
+
+.img11 {
+    position: relative;
+    top: -4074px;
+    left: 364px;
+}
+
+.img12 {
+    position: relative;
+    top: -4193px;
+    left: 253px;
+}
+.para4{
+    position: relative;
+    top: -3590px;
+    left: 400px;
+}
+.img13{
+    position: relative;
+    top: -3860px;
+    left: 850px;
+}
+.img14{
+    position: relative;
+    top: -3820px;
+    left: 850px;
+}.img15{
+    position: relative;
+    top: -3800px;
+    left: 846px;
+}
+.background10 {
+    position: relative;
+    top: -3995px;
+    left: 848px;
+    background-color: lightgray;
+    height: 1px;
+    width: 550px;
+}
+.background11 {
+    position: relative;
+    top: -3893px;
+    left: 848px;
+    background-color: lightgray;
+    height: 1px;
+    width: 550px;
+}
+.para5{
+    position: relative;
+    top: -4087px;
+    left: 1000px;
+}
